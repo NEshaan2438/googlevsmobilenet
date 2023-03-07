@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    background: url("war.webp");
+}
+
+h1 {
+    font-weight: 100;
+}
+
+div {
+    width: 40%;
+    border-radius: 10px;
+    text-align: center;
+}
